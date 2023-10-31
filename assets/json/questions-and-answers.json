@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "Qual a minha cor favorita?",
+      "answers": [
+        "Azul",
+        "Vermelho",
+        "Verde"
+      ],
+      "correctAnswer": "Azul"
+    },
+    {
+      "question": "Qual o meu animal favorita?",
+      "answers": [
+        "Coelho",
+        "Porquinho da Índia",
+        "Cachorro"
+      ],
+      "correctAnswer": "Porquinho da Índia"
+    },
+    {
+      "question": "Qual a minha comida favorita?",
+      "answers": [
+        "Strogonoff",
+        "Lasanha",
+        "Pizza"
+      ],
+      "correctAnswer": "Pizza"
+    },
+    {
+      "question": "Qual o meu anime favorito?",
+      "answers": [
+        "Boku no Hero",
+        "Demon Slayer",
+        "Naruto"
+      ],
+      "correctAnswer": "Demon Slayer"
+    },
+    {
+      "question": "Quando é o meu aniversário?",
+      "answers": [
+        "06 de abril",
+        "12 de julho",
+        "01 de setembro"
+      ],
+      "correctAnswer": "06 de abril"
+    },
+    {
+      "question": "Em qual faculdade eu me formei?",
+      "answers": [
+        "USP",
+        "Unicamp",
+        "FATEC"
+      ],
+      "correctAnswer": "FATEC"
+    },
+    {
+      "question": "Em qual curso eu me graduei?",
+      "answers": [
+        "Ciências da Computação",
+        "ADS",
+        "Sistemas de Informação"
+      ],
+      "correctAnswer": "ADS"
+    },
+    {
+      "question": "Em qual estado eu nasci?",
+      "answers": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Ceará"
+      ],
+      "correctAnswer": "São Paulo"
+    },
+    {
+      "question": "Qual a minha altura?",
+      "answers": [
+        "1,68m",
+        "2m",
+        "1,72m"
+      ],
+      "correctAnswer": "1,68m"
+    },
+    {
+      "question": "Qual é o meu hobby?",
+      "answers": [
+        "Patinação no Gelo",
+        "Desenhar",
+        "Tocar Violão"
+      ],
+      "correctAnswer": "Desenhar"
+    }
+  ]
+}
